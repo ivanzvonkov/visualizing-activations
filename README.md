@@ -30,4 +30,4 @@ This repository contains a notebook for visualizing activations of a VGG-13 neur
 
 -   Optimizing random pixels to activate the class that represents a church yields images with certain characteristics of churches (chapels, windows)
 
-    <img src='assets/optimizing-noise-on-class.png' width='70%'>
+    <img src='assets/optimizing-noise-on-churches.png' width='70%'>
