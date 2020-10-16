@@ -17,14 +17,17 @@ This repository contains a notebook for visualizing activations of a VGG-13 neur
 **Images with activated pixels brightened**
 
 -   The red edges are indeed highlighted when the images are combined with the activations
+
     <img src='assets/images-with-activation.png' width='50%'>
 
 **Optimizing random noise to generate activation**
 
 -   Opimizing random pixels to generate a high activation yields red lines further confirming that this channel helps determine red edges
-    <img src='assets/optimizing-noise-on-activation.png' width='50%'>
+
+    <img src='assets/optimizing-noise-on-activation.png' width='70%'>
 
 ### Example using church class activation
 
 -   Optimizing random pixels to activate the class that represents a church yields images with certain characteristics of churches (chapels, windows)
+
     <img src='assets/optimizing-noise-on-class.png' width='70%'>
