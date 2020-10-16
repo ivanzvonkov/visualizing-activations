@@ -5,6 +5,7 @@ This repository contains a notebook for visualizing activations of a VGG-13 neur
 ### Example using activations from 20th channel of 5th layer
 
 **Images with most activation**
+
 <img src='assets/activated-images.png' width='50%'>
 
 **Activations from most activated images**
